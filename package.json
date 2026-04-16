@@ -1,0 +1,28 @@
+{
+  "name": "neural-memory",
+  "version": "1.0.0",
+  "description": "Agent神经记忆系统：涌现式记忆范式，让AI拥有可持续成长的记忆能力",
+  "main": "SKILL.md",
+  "scripts": {
+    "test": "echo \"No tests specified yet\""
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "memory",
+    "neural-network",
+    "cognitive-architecture",
+    "knowledge-management",
+    "emergence"
+  ],
+  "author": "小鹤子",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/neural-memory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/neural-memory/issues"
+  },
+  "homepage": "https://github.com/yourusername/neural-memory#readme"
+}
